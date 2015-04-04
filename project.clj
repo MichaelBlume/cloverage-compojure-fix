@@ -1,4 +1,4 @@
-(defproject cloverage-compojure-fix "0.1.0"
+(defproject cloverage-compojure-fix "0.1.1-SNAPSHOT"
   :description "Fix for cloverage/compojure incompatibility"
   :url "https://github.com/MichaelBlume/cloverage-compojure-fix"
   :scm {:name "git"
