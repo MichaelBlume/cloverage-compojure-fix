@@ -4,7 +4,7 @@
     [clout.core :refer [map->CompiledRoute Route route-matches]]))
 
 ;; Totally hacky workaround for 
-;; https://github.com/lshift/cloverage/issues/61
+;; https://github.com/lshift/cloverage/pull/59
 ;;
 ;; =(
 

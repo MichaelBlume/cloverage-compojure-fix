@@ -4,7 +4,7 @@ Lein coordinates: [cloverage-compojure-fix "0.1.0"]
 
 Cloverage has a bug where it fails to instrument record instances in the AST
 
-https://github.com/lshift/cloverage/issues/61
+https://github.com/lshift/cloverage/pull/59
 
 This isn't usually a problem, but Compojure happens to run into it as of 1.3.2
 
